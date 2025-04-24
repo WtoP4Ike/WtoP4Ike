@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Wtop4ike! Here you will find my opensource solutions." title="👋 Hi there! I'm Wtop4ike! Here you will find my opensource solutions."/>
+  <img src=" alt="👋 Hi there! I'm Wtop4ike! Here you will find my opensource solutions." title="👋 Hi there! I'm Wtop4ike! Here you will find my opensource solutions."/>
 <div align="justify">
   <table>
         <td align="center" width="96">
