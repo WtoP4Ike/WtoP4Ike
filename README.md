@@ -1,9 +1,3 @@
-### :man_technologist: About Me :
-Idk what to write
-- :telescope: Idk what to write :3
-- :zap: Idk what to write :3
-
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
