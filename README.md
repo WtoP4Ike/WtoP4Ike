@@ -4,9 +4,6 @@
 
 ### `security researcher · pwn · ctf · developer`
 
-<p>
-  <i>breaking things to understand them.</i>
-</p>
 
 <br/>
 
